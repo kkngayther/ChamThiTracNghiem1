@@ -1,0 +1,10 @@
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\bin\Debug\ChamThiTracNghiem.exe.config
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\bin\Debug\ChamThiTracNghiem.exe
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\bin\Debug\ChamThiTracNghiem.pdb
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.csprojAssemblyReference.cache
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.Form1.resources
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.Properties.Resources.resources
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.csproj.GenerateResource.cache
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.exe
+C:\UIT\C#\ChamThiTracNghiem\ChamThiTracNghiem\obj\Debug\ChamThiTracNghiem.pdb
